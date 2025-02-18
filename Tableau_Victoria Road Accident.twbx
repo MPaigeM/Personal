@@ -1,3 +1,7 @@
+•	Created interactive Tableau dashboard analyzing Victoria road accident data in the past 5 years, featuring interactive geographic map, time series trends, and donut charts to visualize accident distribution, weather impacts, and speed zone correlations.
+•	Designed comprehensive KPI tracking with line charts for different casualty types (total, fatal, serious) and bar charts for vulnerable road users analysis, achieving top 1.5% ranking (3/200+) for dashboard design and effective data storytelling.
+
 version https://git-lfs.github.com/spec/v1
 oid sha256:875b14f88c6961972a221448dfd24a78748633bb52005b2ed3f4c042f1c9daed
 size 50148399
+
